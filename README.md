@@ -43,8 +43,10 @@ The project has `master` branch is explained here,
 >* AWS EC2 
 
 ## Screenshots :
-<img src ="(https://user-images.githubusercontent.com/89339582/232370710-c31b90c1-29f6-4f40-84d1-6f3cf5765d79.png)" width='400px'/>
-<img src ="https://github.com/anik0810/E_Litmus-Brain_Game/blob/master/Screenshot%20(14).png?raw=true" width='400px'/>
+<img src ="https://user-images.githubusercontent.com/89339582/232370710-c31b90c1-29f6-4f40-84d1-6f3cf5765d79.png" width='500px'/>
+<img src ="https://github.com/anik0810/E_Litmus-Brain_Game/blob/master/Screenshot%20(14).png?raw=true" width='500px'/>
+<img src ="https://github.com/anik0810/E_Litmus-Brain_Game/blob/master/Screenshot%20(16).png?raw=true" width= '500px' />
+<img src ="https://github.com/anik0810/E_Litmus-Brain_Game/blob/master/Screenshot%20(17).png?raw=true" width='500px'/>
 
 
 ## Deployment :
