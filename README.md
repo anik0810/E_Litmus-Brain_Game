@@ -1,6 +1,6 @@
 # Brain Game
 
-![Current Version](https://img.shields.io/badge/version-v0.1-blue
+![Current Version](https://img.shields.io/badge/version-v0.1-blue)
 
 ## Play the Game : [Click here](http://65.0.74.234/)
 
@@ -56,7 +56,7 @@ The project has `master` branch is explained here,
 
 
 ## Our API :
-You can upload potato leaf's image and test response here - http://65.0.74.234:8989/docs
+You can use my API too - http://65.0.74.234:8989/docs
 
 ## Authors :
 
